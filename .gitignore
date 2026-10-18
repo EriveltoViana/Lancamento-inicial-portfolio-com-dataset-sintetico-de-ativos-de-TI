@@ -1,0 +1,8 @@
+# Excel temp / lock files
+~$*.xls*
+*.tmp
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/

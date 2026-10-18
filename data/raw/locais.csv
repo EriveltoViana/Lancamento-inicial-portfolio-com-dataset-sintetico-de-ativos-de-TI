@@ -1,0 +1,13 @@
+id_local,nome_local,regiao
+LOC-01,Sede - Brasília,Centro-Oeste
+LOC-02,Regional - São Paulo,Sudeste
+LOC-03,Regional - Rio de Janeiro,Sudeste
+LOC-04,Regional - Belo Horizonte,Sudeste
+LOC-05,Regional - Porto Alegre,Sul
+LOC-06,Regional - Curitiba,Sul
+LOC-07,Regional - Salvador,Nordeste
+LOC-08,Regional - Recife,Nordeste
+LOC-09,Regional - Fortaleza,Nordeste
+LOC-10,Regional - Belém,Norte
+LOC-11,Regional - Manaus,Norte
+LOC-12,Regional - Goiânia,Centro-Oeste
